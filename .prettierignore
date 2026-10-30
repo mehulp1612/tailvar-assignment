@@ -1,0 +1,9 @@
+node_modules
+.npm-cache
+.verification
+dist
+.wrangler
+package-lock.json
+test-results
+playwright-report
+*.pdf

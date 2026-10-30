@@ -1,0 +1,13 @@
+node_modules/
+.npm-cache/
+.verification/
+dist/
+.wrangler/
+.dev.vars
+.env*
+!.env.example
+test-results/
+playwright-report/
+coverage/
+*.zip
+*.pdf
